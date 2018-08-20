@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(92): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(94): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(97): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(107): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(108): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(140): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(148): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+e:\vs_2015_projects\ip_hw6\ip_hw6\MyForm.h(156): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+  IP_HW6.vcxproj -> E:\VS_2015_Projects\IP_HW6\x64\Debug\IP_HW6.exe
+  IP_HW6.vcxproj -> E:\VS_2015_Projects\IP_HW6\x64\Debug\IP_HW6.pdb (Full PDB)
